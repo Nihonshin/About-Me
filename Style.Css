@@ -1,0 +1,15 @@
+* {
+    color: rgb(245, 239, 239);
+}
+.head {
+    color: rgb(127, 223, 230);
+}
+
+body {
+    background-color: rgb(73, 128, 128);
+}
+
+img {
+    max-width: 20%;
+    max-height: 20%;
+}
